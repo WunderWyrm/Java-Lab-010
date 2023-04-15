@@ -86,6 +86,7 @@ Wolf makes sound HOWL!!!
 
 * Trace through the code in WeatherStation and make sure you understand what you have to work with!
 * Look at the Display.java **interface** and in your own words, write below why you think we are declaring an **interface**.
+    *I think we are declaring Display as an interface so that we can have a display for each type of measurement we are getting.
 
 ## Part 2 - Create 3 Classes that **Implement** Display.java
 
